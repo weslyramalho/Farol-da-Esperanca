@@ -1,5 +1,5 @@
+CREATE DATABASE dbrefugiados;
 Use dbrefugiados;
-
 
 CREATE TABLE Cidade (
 id_cidade VARCHAR(10) PRIMARY KEY,
