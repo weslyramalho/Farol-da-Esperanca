@@ -1,4 +1,4 @@
-![logo](https://github.com/weslyramalho/Farol-da-Esperanca/blob/main/images/logo-inicial.svg)
+
 
 # Farol da Esperança
 
