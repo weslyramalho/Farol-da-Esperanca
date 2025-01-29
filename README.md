@@ -7,7 +7,9 @@
 ### Modelo conceitual
 ![conceitual](https://github.com/weslyramalho/Farol-da-Esperanca/blob/main/Banco%20de%20dados/modelo_conceitual.jpg)
 
+
 ### Modelo logico
+
 ![logico](https://github.com/weslyramalho/Farol-da-Esperanca/blob/main/Banco%20de%20dados/modelo%20logico.jpg)
 
 ### Modelo fisico
@@ -248,7 +250,7 @@ ALTER TABLE Saude ADD FOREIGN KEY(cro) REFERENCES  Odontologo (cro);
 ## Exemplos de dados para teste no Banco de dados
 
 #### Dados tabela cidade
-``
+```
 INSERT INTO cidade (estado, nome) VALUES
 ('SP', 'São Paulo'),
 ('RJ', 'Rio de Janeiro'),
@@ -271,10 +273,11 @@ INSERT INTO cidade (estado, nome) VALUES
 ('MG', 'Contagem'),
 ('PR', 'São José dos Pinhais');
 
-``
+```
+
 #### Dados tabela endereco
 
-``
+```
 INSERT INTO endereco (logradouro, bairro, cep, id_cidade) VALUES
 ('Rua das Flores', 'Jardim Primavera', '13000-000', 1),
 ('Avenida Paulista', 'Bela Vista', '01311-920', 20),
@@ -297,10 +300,10 @@ INSERT INTO endereco (logradouro, bairro, cep, id_cidade) VALUES
 ('Rua da Consolação', 'Consolação', '01302-907', 19),
 ('Rua Alagoas', 'Higienópolis', '01244-902', 20);
 
-``
+```
 #### Dados tabela contato
 
-``
+```
 INSERT INTO contato (email, telefone) VALUES
 ('ana.silva@email.com', '11999998888'),
 ('joao.pereira@email.com', '21988887777'),
@@ -322,11 +325,12 @@ INSERT INTO contato (email, telefone) VALUES
 ('thiago.nunes@email.com', '90909876543'),
 ('renata.leite@email.com', '13980765432'),
 ('vinicius.dias@email.com', '24970654321');
-``
+```
 
 #### Dados tabela pessoa
 
-``INSERT INTO pessoa (nome, sexo, Data_nascimento, cpf, id_contato, id_endereco) VALUES
+```
+INSERT INTO pessoa (nome, sexo, Data_nascimento, cpf, id_contato, id_endereco) VALUES
 ('Ana Maria Silva', 'F', '1985-03-15', '123.456.789-00', 1, 1),
 ('João Pedro Oliveira', 'M', '1992-07-22', '987.654.321-11', 2, 2),
 ('Maria Clara Souza', 'F', '1988-11-08', '456.789.123-22', 3, 3),
@@ -347,11 +351,11 @@ INSERT INTO contato (email, telefone) VALUES
 ('Thiago Nunes', 'M', '1993-12-03', '449.505.515-08', 18, 18),
 ('Renata Leite', 'F', '1991-06-20', '552.535.545-09', 19, 19),
 ('Vinícius Dias', 'M', '1994-06-24', '000.000.222-00', 20, 20)
-``
+```
 
 #### Dados tabela empresa
 
-``
+```
 INSERT INTO empresa (cnpj, razao_social, id_endereco, id_contato) VALUES
 ('12.345.678/0001-90', 'Empresa de Tecnologia Alfa', 1, 1),
 ('98.765.432/0001-80', 'Distribuidora Beta Ltda.', 2, 2),
@@ -363,10 +367,10 @@ INSERT INTO empresa (cnpj, razao_social, id_endereco, id_contato) VALUES
 ('77.888.999/0001-20', 'Editora Teta S.A.', 8, 8),
 ('33.444.555/0001-10', 'Construtora Iota Ltda.', 9, 9),
 ('66.777.888/0001-00', 'Agência Kappa de Marketing', 10, 10);
-``
+```
 #### Dados voluntario
 
-``
+```
 INSERT INTO voluntario (id_pessoa)
 VALUES
 (11),
@@ -379,18 +383,18 @@ VALUES
 (18),
 (19),
 (20);
-``
+```
 #### Dados professor
 
-``
+```
 INSERT INTO professor (disciplina, id_voluntario)
 VALUES
 ('Português',1),
 ('Historia' ,2);
-``
+```
 #### Dados refugiados
   
-``
+```
 INSERT INTO refugiado (nacionalidade, descricao, crnm, id_pessoa)
 VALUES
 ('Síria', 'Fugindo da guerra', '00000000001', 1),
@@ -403,88 +407,88 @@ VALUES
 ('Iraque', 'Instabilidade política', '00000000008', 8),
 ('Eritreia', 'Ditadura e serviço militar obrigatório', '00000000009', 9),
 ('Nigéria', 'Violência e Boko Haram', '00000000011', 10);
-``
+```
 
 #### Dados educaçao
 
-``
+```
 INSERT INTO educacao (id_professor, crnm)
 VALUES
 (3, '00000000001'),
 (3, '00000000002'),
 (4, '00000000003');
-``
+```
 
 #### Dados emprego
 
-``
+```
 INSERT INTO emprego (quantidade, descricao, crnm, cnpj)
 VALUES
 (1, 'Pedreiro', '00000000004', '33.444.555/0001-10'),
 (1, 'Entregador','00000000005', '98.765.432/0001-80'),
 (1, 'Vendedor', '00000000006', '12.345.678/0001-90');
 
-``
+```
 
 #### Dados enfermeiro
- ``
+ ```
  INSERT INTO enfermeiro (cip, id_voluntario)
 VALUES
 ('100000000001', 3);
 
- ``
+ ```
 
  #### Ddaos fisioterapeuta
 
- ``
+ ```
  INSERT INTO fisioterapeuta (crefito, id_voluntario)
 VALUES
 ('200000000002', 4);
- ``
+ ```
 
  #### Dados medico
 
- ``
+ ```
  INSERT INTO medico (especialidade, crm, id_voluntario)
 VALUES
 ('Clinico geral',, 5);
 
- ``
+ ```
 
  #### Dados nutricionista
 
- ``
+ ```
  INSERT INTO nutricionista (crn, id_voluntario)
 VALUES
 ('400000000004', 6);
- ``
+ ```
  #### Dados odontologo
 
- ``
+ ```
  INSERT INTO odontologo (cro, id_voluntario)
 VALUES
 ('500000000005', 7);
-``
+```
 
 #### Dados psicologo
 
-``
+```
 INSERT INTO psicologo (cfp, id_voluntario)
 VALUES
 ('600000000006', 8);
-``
+```
 
 #### Dados terepeuta
 
-``
+```
 INSERT INTO terapeuta (rntp, id_voluntario)
 VALUES
 ('700000000007', 9);
-``
+```
 
 #### Dados saude
 
-``
+```
 INSERT INTO saude (descricao, crnm, cfp, cip, rntp, crn, crefito, crm, cro)
 VALUES
 ('Paciente debilitado', '00000000006','600000000006', '100000000001', '700000000007',  '400000000004', '200000000002', '300000000003', '500000000005'),
@@ -493,5 +497,4 @@ VALUES
 ('Falta de ar', '00000000009','600000000006', '100000000001', '700000000007',  '400000000004', '200000000002', '300000000003', '500000000005'),
 ('Gripe', '00000000011','600000000006', '100000000001', '700000000007',  '400000000004', '200000000002', '300000000003', '500000000005');
 
-
-``
+```
