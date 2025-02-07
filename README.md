@@ -1,8 +1,45 @@
-
-
 # Farol da Esperança
+### Squad - 36
 
-## Banco de Dados
+### Integrantes ativos
+* Lisane Lucia Zanatta (Lider)
+* Joel de Jesus Moreira Serra - (Vice-Lider)
+* Geriane Marília de Oliveira Alves
+* Wilza de Jesus Dourado Aquino dos Santos
+* Wesly Ramalho Lopes
+
+### Desafio escolhido, problema identificado e público-alvo.
+#### Desafio escolhido
+ Projeto Farol da Esperança busca promover a inclusão e autonomia dos refugiados no Brasil por meio de soluções concretas. Entre as iniciativas estão cursos de português para facilitar a comunicação e a inserção no mercado de trabalho, workshops de capacitação para desenvolver habilidades e gerar renda, programas de mentoria para conectar refugiados com profissionais brasileiros e fortalecer sua rede de apoio, além de ações de conscientização para combater o preconceito e estimular a integração cultural.
+
+#### Problemas identificados
+1. Barreiras Linguísticas
+   - Dificuldades na comunicação impedem o acesso a oportunidades educacionais e profissionais.
+2. Acesso à Saúde
+   - Falta de acesso a serviços de saúde e informações sobre cuidados médicos disponíveis.
+
+3. Desafios no Emprego
+   - Limitações no acesso ao mercado de trabalho e capacitação profissional.
+
+6. Preconceito e Discriminação
+   - Dificuldades em se integrar às comunidades locais devido a preconceitos e discriminação.
+  
+#### Público alvo
+
+O projeto tem como público-alvo pessoas que foram forçadas a deixar seus países devido a conflitos, perseguições ou desastres naturais, e que precisam reconstruir suas vidas no Brasil. Considerando a diversidade de nacionalidades, etnias e níveis de escolaridade, as soluções são adaptadas às necessidades específicas de cada grupo. Para garantir sua eficácia, o projeto é desenvolvido de forma inclusiva e participativa, envolvendo os próprios refugiados na identificação de suas necessidades e na avaliação dos resultados.
+
+
+
+
+
+
+
+
+
+
+
+
+### Banco de Dados
 
 ### Modelo conceitual
 ![conceitual](https://github.com/weslyramalho/Farol-da-Esperanca/blob/main/Banco%20de%20dados/modelo_conceitual.jpg)
