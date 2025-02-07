@@ -1,4 +1,5 @@
 # Farol da Esperança
+### Tema: Refugiados
 ### Squad - 36
 
 ### Integrantes ativos
@@ -27,6 +28,51 @@
 #### Público alvo
 
 O projeto tem como público-alvo pessoas que foram forçadas a deixar seus países devido a conflitos, perseguições ou desastres naturais, e que precisam reconstruir suas vidas no Brasil. Considerando a diversidade de nacionalidades, etnias e níveis de escolaridade, as soluções são adaptadas às necessidades específicas de cada grupo. Para garantir sua eficácia, o projeto é desenvolvido de forma inclusiva e participativa, envolvendo os próprios refugiados na identificação de suas necessidades e na avaliação dos resultados.
+
+### Questões
+
+1.Considerando o desafio escolhido, qual é o problema a ser resolvido e que será contemplado com o projeto final?  
+* Objetivo 1:
+   - Facilitar o acesso à educação, saúde e oportunidades de emprego para refugiados.
+* Objetivo 2:
+   - Promover a conscientização e redução do preconceito na comunidade local.
+     
+2. Qual o público-alvo? A solução poderá ser aplicada a todos, sem restrição de idade ou grau de escolaridade, por exemplo? \
+   _Refugiados , será aplicado a todos, sem restrições de idade, genero e escolaridade._
+
+3. problema foi escolhido com base em quais dados oficiais? Como vocês identificaram que esse realmente é um problema para o público-alvo? Indique as referências usadas, justificando a sua escolha. \
+ _A falta de oportunidades e o isolamento social são desafios enfrentados pelos refugiados no Brasil, dificultando sua integração e impactando diversas áreas de suas vidas. Dados de instituições como ACNUR, CONARE e o Ministério da Justiça demonstram que essa população enfrenta barreiras no acesso a serviços básicos, discriminação e dificuldades no mercado de trabalho. Muitos refugiados não conseguem validar seus diplomas e experiências profissionais, enfrentam obstáculos linguísticos e culturais e dificuldades com o preconceito, o que compromete sua inserção profissional e geração de renda._
+
+4. Como esse problema afeta o público-alvo? \
+_Refugiados enfrentam desafios imensos para reconstruir suas vidas, como barreiras linguísticas, exclusão social e falta de acesso a direitos básicos._
+
+5. Qual o cronograma das atividades?
+   * Pesquisa e levantamento de dados sobre as necessidades educacionais, de saúde e de emprego dos refugiados.
+   * Levantamento de requisistos da plataforma web.
+   * Escolha de cores.
+   * Desenvolvimento do layout utilizando o Figma.
+   * Modelagen do banco de Dados.
+      - Modelo conceitual,
+      - Modelo lógico
+   * Gerar script SQL das tabelas do banco de dados.
+   * Desenvolvimento das paginas utilizando (HTML, CSS, Bootstrap).
+     - Home.
+     - Saúde.
+     - Educação.
+     - Emprego.
+     - Sobre nós.
+  6. Como será feita a distribuição das atividades entre os integrantes do squad para essa primeira entrega?
+     - Wilza: layout do site, fez algumas páginas do site com bootstrap e css, inseriu o conteúdo das páginas e organizou o arquivo geral do site.
+     - Geriane: layout do site, pesquisa e apresentação.
+     - Lisane: pesquisou e disponibilizou conteudos sobre Refugiados, alem de liderar a equipe, organizando reuniões.
+     - Joel: desenvolvimento de páginas, utilizando, html bootstrap e css, além de ajudar a Lisiane a liderar e coordenar as atividades da equipe.
+     - Wesly: desenvolvimento html, bootstrap e css, modelagem conceitual e lógico do banco de dados, geração do scriptSQL das tabelas e testes de CRUD do banco de dados.
+   
+   
+
+
+
+
 
 
 
