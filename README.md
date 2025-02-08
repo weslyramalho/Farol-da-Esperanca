@@ -8,6 +8,8 @@
 * Geriane Marília de Oliveira Alves
 * Wilza de Jesus Dourado Aquino dos Santos
 * Wesly Ramalho Lopes
+* Orlando Lopes Saraiva Junior
+
 
 ### Desafio escolhido, problema identificado e público-alvo.
 #### Desafio escolhido
@@ -67,11 +69,17 @@ _Refugiados enfrentam desafios imensos para reconstruir suas vidas, como barreir
      - Lisane: pesquisou e disponibilizou conteudos sobre Refugiados, alem de liderar a equipe, organizando reuniões.
      - Joel: desenvolvimento de páginas, utilizando, html bootstrap e css, além de ajudar a Lisane a liderar e coordenar as atividades da equipe.
      - Wesly: desenvolvimento html, bootstrap e css, modelagem conceitual e lógico do banco de dados, geração do scriptSQL das tabelas e testes de CRUD do banco de dados.
+     - Orlando: acompanhamento do desenvolvimento do projeto.
     
    7. Qual a ferramenta de gerenciamento de projeto será usada para o monitoramento das atividades? Ex: Trello, Asana, Jira, Monday. \
       _Trello_
 
       ![trello](https://github.com/weslyramalho/Farol-da-Esperanca/blob/main/img/Captura%20de%20tela%202025-02-08%20160604.png)
+
+      ### Página WEB
+
+      
+      
    
 
 
