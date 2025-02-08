@@ -11,7 +11,7 @@
 
 ### Desafio escolhido, problema identificado e público-alvo.
 #### Desafio escolhido
- Projeto Farol da Esperança busca promover a inclusão e autonomia dos refugiados no Brasil por meio de soluções concretas. Entre as iniciativas estão cursos de português para facilitar a comunicação e a inserção no mercado de trabalho, workshops de capacitação para desenvolver habilidades e gerar renda, programas de mentoria para conectar refugiados com profissionais brasileiros e fortalecer sua rede de apoio, além de ações de conscientização para combater o preconceito e estimular a integração cultural.
+O Projeto Farol da Esperança busca promover a inclusão e autonomia dos refugiados no Brasil por meio de soluções concretas. Entre as iniciativas estão cursos de português para facilitar a comunicação e a inserção no mercado de trabalho, workshops de capacitação para desenvolver habilidades e gerar renda, programas de mentoria para conectar refugiados com profissionais brasileiros e fortalecer sua rede de apoio, além de ações de conscientização para combater o preconceito e estimular a integração cultural.
 
 #### Problemas identificados
 1. Barreiras Linguísticas
@@ -65,9 +65,13 @@ _Refugiados enfrentam desafios imensos para reconstruir suas vidas, como barreir
      - Wilza: layout do site, fez algumas páginas do site com bootstrap e css, inseriu o conteúdo das páginas e organizou o arquivo geral do site.
      - Geriane: layout do site, pesquisa e apresentação.
      - Lisane: pesquisou e disponibilizou conteudos sobre Refugiados, alem de liderar a equipe, organizando reuniões.
-     - Joel: desenvolvimento de páginas, utilizando, html bootstrap e css, além de ajudar a Lisiane a liderar e coordenar as atividades da equipe.
+     - Joel: desenvolvimento de páginas, utilizando, html bootstrap e css, além de ajudar a Lisane a liderar e coordenar as atividades da equipe.
      - Wesly: desenvolvimento html, bootstrap e css, modelagem conceitual e lógico do banco de dados, geração do scriptSQL das tabelas e testes de CRUD do banco de dados.
-   
+    
+   7. Qual a ferramenta de gerenciamento de projeto será usada para o monitoramento das atividades? Ex: Trello, Asana, Jira, Monday. \
+      _Trello_
+
+      ![trello](https://trello.com/invite/b/67a798a3d5157a6bca214ce1/ATTI9fbbdc2d7cc0c3688c4e4f67b8e50d7673F95195/farol-da-esperanca)
    
 
 
