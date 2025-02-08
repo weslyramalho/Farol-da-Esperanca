@@ -71,7 +71,7 @@ _Refugiados enfrentam desafios imensos para reconstruir suas vidas, como barreir
    7. Qual a ferramenta de gerenciamento de projeto será usada para o monitoramento das atividades? Ex: Trello, Asana, Jira, Monday. \
       _Trello_
 
-      ![trello](https://trello.com/invite/b/67a798a3d5157a6bca214ce1/ATTI9fbbdc2d7cc0c3688c4e4f67b8e50d7673F95195/farol-da-esperanca)
+      ![trello](https://github.com/weslyramalho/Farol-da-Esperanca/blob/main/img/Captura%20de%20tela%202025-02-08%20160604.png)
    
 
 
