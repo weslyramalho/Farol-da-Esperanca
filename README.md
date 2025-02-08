@@ -76,11 +76,29 @@ _Refugiados enfrentam desafios imensos para reconstruir suas vidas, como barreir
 
       ![trello](https://github.com/weslyramalho/Farol-da-Esperanca/blob/main/img/Captura%20de%20tela%202025-02-08%20160604.png)
 
-      ### Página WEB
-
-      
-      
+      <div style="display: inline_block"><br>
    
+   ##
+   
+   ##
+</div>
+
+### Página WEB
+
+
+![video1](https://github.com/weslyramalho/Farol-da-Esperanca/blob/main/img/V%C3%ADdeo%20sem%20t%C3%ADtulo%20(1).gif)
+
+
+
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Wesly-Js" height="700" width="1000" src="https://github.com/weslyramalho/Farol-da-Esperanca/blob/main/img/V%C3%ADdeo2.gif">
+ 
+  ##
+ 
+
+ ## 
+</div>
 
 
 
