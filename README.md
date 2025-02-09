@@ -13,7 +13,8 @@
 
 ### Desafio escolhido, problema identificado e público-alvo.
 #### Desafio escolhido
-O Projeto Farol da Esperança busca promover a inclusão e autonomia dos refugiados no Brasil por meio de soluções concretas. Entre as iniciativas estão cursos de português para facilitar a comunicação e a inserção no mercado de trabalho, workshops de capacitação para desenvolver habilidades e gerar renda, programas de mentoria para conectar refugiados com profissionais brasileiros e fortalecer sua rede de apoio, além de ações de conscientização para combater o preconceito e estimular a integração cultural.
+O projeto Farol da Esperança escolheu o desafio,acesso a serviços básicos:Saúde,Educação,Emprego. 
+O Projeto busca promover a inclusão e autonomia dos refugiados no Brasil por meio de soluções concretas. Entre as iniciativas estão cursos de português para facilitar a comunicação e a inserção no mercado de trabalho, workshops de capacitação para desenvolver habilidades e gerar renda, programas de mentoria para conectar refugiados com profissionais brasileiros e fortalecer sua rede de apoio, além de ações de conscientização para combater o preconceito e estimular a integração cultural.
 
 #### Problemas identificados
 1. Barreiras Linguísticas
@@ -29,7 +30,7 @@ O Projeto Farol da Esperança busca promover a inclusão e autonomia dos refugia
   
 #### Público alvo
 
-O projeto tem como público-alvo pessoas que foram forçadas a deixar seus países devido a conflitos, perseguições ou desastres naturais, e que precisam reconstruir suas vidas no Brasil. Considerando a diversidade de nacionalidades, etnias e níveis de escolaridade, as soluções são adaptadas às necessidades específicas de cada grupo. Para garantir sua eficácia, o projeto é desenvolvido de forma inclusiva e participativa, envolvendo os próprios refugiados na identificação de suas necessidades e na avaliação dos resultados.
+O projeto tem como público-alvo pessoas que foram forçadas a deixar seus países devido a conflitos, perseguições ou desastres naturais, e que precisam reconstruir suas vidas no Brasil. Considerando a diversidade de nacionalidades, etnias e contexto  as soluções são adaptadas às necessidades específicas. Para garantir sua eficácia, o projeto é desenvolvido de forma inclusiva e participativa, envolvendo os próprios refugiados na identificação de suas necessidades e na avaliação dos resultados.
 
 ### Questões
 
@@ -39,16 +40,17 @@ O projeto tem como público-alvo pessoas que foram forçadas a deixar seus país
 * Objetivo 2:
    - Promover a conscientização e redução do preconceito na comunidade local.
      
-2. Qual o público-alvo? A solução poderá ser aplicada a todos, sem restrição de idade ou grau de escolaridade, por exemplo? \
-   _Refugiados , será aplicado a todos, sem restrições de idade, genero e escolaridade._
+2. Qual o público-alvo? A solução poderá ser aplicada a todos, sem restrição de idade ou grau de escolaridade, por exemplo? 
+   _Será aplicado a todos os Refugiados, sem restrições de idade, genero e escolaridade, neste primeiro momento.
 
 3. problema foi escolhido com base em quais dados oficiais? Como vocês identificaram que esse realmente é um problema para o público-alvo? Indique as referências usadas, justificando a sua escolha. \
- _A falta de oportunidades e o isolamento social são desafios enfrentados pelos refugiados no Brasil, dificultando sua integração e impactando diversas áreas de suas vidas. Dados de instituições como ACNUR, CONARE e o Ministério da Justiça demonstram que essa população enfrenta barreiras no acesso a serviços básicos, discriminação e dificuldades no mercado de trabalho. Muitos refugiados não conseguem validar seus diplomas e experiências profissionais, enfrentam obstáculos linguísticos e culturais e dificuldades com o preconceito, o que compromete sua inserção profissional e geração de renda._
+ _A falta de oportunidades e o isolamento social são desafios enfrentados pelos refugiados no Brasil, dificultando sua integração e impactando diversas áreas de suas vidas. Dados de instituições como ACNUR(https://www.acnur.org/br/, CONARE (https://www.gov.br/mj/pt-br/conare) e o Ministério da Justiça( https://www.gov.br/mj/pt-br) demonstram que essa população enfrenta barreiras no acesso a serviços básicos, discriminação e dificuldades no mercado de trabalho. Muitos refugiados não conseguem validar seus diplomas e experiências profissionais, enfrentam obstáculos linguísticos, culturais e dificuldades com o preconceito, o que compromete sua inserção profissional e geração de renda.
+A escolha por estes sites foi feita por se tratarem de òrgãos Oficiais.
 
-4. Como esse problema afeta o público-alvo? \
-_Refugiados enfrentam desafios imensos para reconstruir suas vidas, como barreiras linguísticas, exclusão social e falta de acesso a direitos básicos._
+5. Como esse problema afeta o público-alvo? \
+_Refugiados enfrentam desafios imensos para reconstruir suas vidas, como barreiras linguísticas, exclusão social e falta de acesso a direitos básicos.
 
-5. Qual o cronograma das atividades?
+6. Qual o cronograma das atividades?
    * Pesquisa e levantamento de dados sobre as necessidades educacionais, de saúde e de emprego dos refugiados.
    * Levantamento de requisistos da plataforma web.
    * Escolha de cores.
@@ -63,7 +65,7 @@ _Refugiados enfrentam desafios imensos para reconstruir suas vidas, como barreir
      - Educação.
      - Emprego.
      - Sobre nós.
-  6. Como será feita a distribuição das atividades entre os integrantes do squad para essa primeira entrega?
+  7. Como será feita a distribuição das atividades entre os integrantes do squad para essa primeira entrega?
      - Wilza: layout do site, fez algumas páginas do site com bootstrap e css, inseriu o conteúdo das páginas e organizou o arquivo geral do site.
      - Geriane: layout do site, pesquisa e apresentação.
      - Lisane: pesquisou e disponibilizou conteudos sobre Refugiados, alem de liderar a equipe, organizando reuniões.
@@ -71,7 +73,7 @@ _Refugiados enfrentam desafios imensos para reconstruir suas vidas, como barreir
      - Wesly: desenvolvimento html, bootstrap e css, modelagem conceitual e lógico do banco de dados, geração do scriptSQL das tabelas e testes de CRUD do banco de dados.
      - Orlando: acompanhamento do desenvolvimento do projeto.
     
-   7. Qual a ferramenta de gerenciamento de projeto será usada para o monitoramento das atividades? Ex: Trello, Asana, Jira, Monday. \
+   8. Qual a ferramenta de gerenciamento de projeto será usada para o monitoramento das atividades? Ex: Trello, Asana, Jira, Monday. \
       _Trello_
 
       ![trello](https://github.com/weslyramalho/Farol-da-Esperanca/blob/main/img/Captura%20de%20tela%202025-02-08%20160604.png)
