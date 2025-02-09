@@ -13,8 +13,7 @@
 
 ### Desafio escolhido, problema identificado e público-alvo.
 #### Desafio escolhido
-O projeto Farol da Esperança escolheu o desafio,acesso a serviços básicos:Saúde,Educação,Emprego. 
-O Projeto busca promover a inclusão e autonomia dos refugiados no Brasil por meio de soluções concretas. Entre as iniciativas estão cursos de português para facilitar a comunicação e a inserção no mercado de trabalho, workshops de capacitação para desenvolver habilidades e gerar renda, programas de mentoria para conectar refugiados com profissionais brasileiros e fortalecer sua rede de apoio, além de ações de conscientização para combater o preconceito e estimular a integração cultural.
+O Projeto Farol da Esperança escolheu o tema "Acesso à serviços básicos:Saúde, Educação e Emprego.O Projeto busca promover a inclusão e autonomia dos refugiados no Brasil por meio de soluções concretas. Entre as iniciativas estão cursos de português para facilitar a comunicação e a inserção no mercado de trabalho, workshops de capacitação para desenvolver habilidades e gerar renda, programas de mentoria para conectar refugiados com profissionais brasileiros e fortalecer sua rede de apoio, além de ações de conscientização para combater o preconceito e estimular a integração cultural.
 
 #### Problemas identificados
 1. Barreiras Linguísticas
@@ -258,7 +257,7 @@ FOREIGN KEY(crm) REFERENCES Medico (crm)
 
 CREATE TABLE  Odontologo (
 cro VARCHAR(20) PRIMARY KEY,
-id_voluntariO INT,
+id_voluntario INT,
 FOREIGN KEY(id_voluntario) REFERENCES Voluntario (id_voluntario)
 );
 
