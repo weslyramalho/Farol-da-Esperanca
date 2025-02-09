@@ -127,7 +127,7 @@ FOREIGN KEY(crm) REFERENCES Medico (crm)
 
 CREATE TABLE  Odontologo (
 cro VARCHAR(20) PRIMARY KEY,
-id_voluntariO INT,
+id_voluntario INT,
 FOREIGN KEY(id_voluntario) REFERENCES Voluntario (id_voluntario)
 );
 
