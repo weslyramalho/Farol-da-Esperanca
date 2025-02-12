@@ -71,7 +71,7 @@ _Refugiados enfrentam desafios imensos para reconstruir suas vidas, como barreir
      - Geriane: layout do site, pesquisa e apresentação.
      - Lisane: pesquisou e disponibilizou conteudos sobre Refugiados, alem de liderar a equipe, organizando reuniões.
      - Joel: desenvolvimento de páginas, utilizando, html bootstrap e css, além de ajudar a Lisane a liderar e coordenar as atividades da equipe.
-     - Wesly: desenvolvimento html, bootstrap e css, modelagem conceitual e lógico do banco de dados, geração do scriptSQL das tabelas e testes de CRUD do banco de dados.
+     - Wesly: desenvolvimento html, bootstrap e css, diagrama de modelagem conceitual e lógico do banco de dados, geração do scriptSQL das tabelas e testes de CRUD do banco de dados.
      - Orlando: acompanhamento do desenvolvimento do projeto.
     
    8. Qual a ferramenta de gerenciamento de projeto será usada para o monitoramento das atividades? Ex: Trello, Asana, Jira, Monday. \
