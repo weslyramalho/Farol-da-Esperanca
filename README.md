@@ -282,17 +282,17 @@ ALTER TABLE Saude ADD FOREIGN KEY(cro) REFERENCES  Odontologo (cro);
 ```
 ### Entidades
 * Cidade
-   * id_cidade -> Recebe um id aleatório.
+   * id_cidade -> Recebe um id automaticamente.
    * estado -> Estado a qual a cidade pertece.
    * nome - > nome da cidade.
 * Endereço
   * logradouro -> Nome da rua, avenida, que identifica o endereço no bairro.
   * bairro -> nome do bairro.
   * CEP -> Código de Endereçamento Postal.
-  * id_endereco -> Recebe um id aleatório.
+  * id_endereco -> Recebe um id automaticamente.
   * id_cidade -> recebe o id da tabela cidade.
 * Pessoa
-    * id_pessoa -> Recebe um id aleatótio.
+    * id_pessoa -> Recebe um id automaticamente.
     * nome -> nome da pessoa.
     * sexo -> sexo.
     * Data_nascimento -> Data de nascimento.
@@ -300,59 +300,59 @@ ALTER TABLE Saude ADD FOREIGN KEY(cro) REFERENCES  Odontologo (cro);
     * id_contato -> recebe o id da tabela contato.
     * id_endereco -> recebe o id da tabela endereco.
 * Contato
-    * id_contato - > Recebe um id aleatório.
+    * id_contato - > Recebe um id automaticamente.
     * email -> recebe o enderço de email.
     * telefone -> número de telefone. 
 * Empresa
-    * CNPJ -> Cadastro Nacional da Pessoa Jurídica.
+    * CNPJ -> Cadastro Nacional da Pessoa Jurídica - Primary key.
     * razao_social -> Nome da razão social da empresa.
     * id_endereco -> Recebe o id da tabela endereço.
     * id_contato ->  Recebe o id da tabela contato.
 * Emprego
-    * id_emprego -> Recebe um id aleatório.
+    * id_emprego -> Recebe um id automaticamente.
     * quantidade -> Recebe o numero de vagas de cada empresa.
     * descricao - > Recebe uma descrição da vaga.
     * crnm -> Carteira de registro nacional migratório.
     * cnpj -> cnpj da empresa que esta relacionada a vaga de emprego.
 * Voluntário
-    * id_voluntario -> Recebe um id aleatório.
+    * id_voluntario -> Recebe um id automaticamente.
     * id_pessoa -> Recebe o id da tabela pessoa.
 * Professor
-    * id_professor -> Recebe um id aleatório.
+    * id_professor -> Recebe um id automaticamente.
     * disciplina -> Disciplina que o professor leciona.
 * Educação
-    * id_educacao -> Recebe um id aleatório.
+    * id_educacao -> Recebe um id automaticamente.
     * id_professor -> Recebe o id da tabela professor.
     * crnm -> Carteira de registro nacional migratório.
 * Refugiado
     * nacionalidade -> nacionalidade do refúgiado.
-    *  crnm -> Carteira de registro nacional migratório.
+    *  crnm -> Carteira de registro nacional migratório - Primary key.
     *  descricao -> descrição do refúgiado.
     *  id_pessoa -> Recebe o id da tabela pessoa.
 * Psicólogo
-    * cfp -> Registro de Especialista em Psicologia.
+    * cfp -> Registro de Especialista em Psicologia - Primary key.
     * id_voluntario -> id da tabela voluntário.
 * Enfermeiro
     * id_voluntario -> id da tabela voluntário.
-    * cip -> Carteira de Identidade Profissional.
+    * cip -> Carteira de Identidade Profissional - Primary key.
 * Nutricionista
     * id_voluntario -> id da tabela voluntário.
-    * crn -> Conselho Regional de Nutricionistas.
+    * crn -> Conselho Regional de Nutricionistas - Primary KEY.
 * Terapeuta
     * id_voluntario -> id da tabela voluntário.
-    * rntp -> Registro Nacional de Terapeutas e Psicanalistas.
+    * rntp -> Registro Nacional de Terapeutas e Psicanalistas -Primary KEY.
 * Fisioterapeuta
     * id_voluntario -> id da tabela voluntário.
-    * crefito -> Conselho Regional de Fisioterapia e Terapia Ocupacional.
+    * crefito -> Conselho Regional de Fisioterapia e Terapia Ocupacional - Primary KEY.
 * Médico
     * id_voluntario -> id da tabela voluntário.
     * especialidade -> especialidade do médico.
-    * crm -> Conselho Regional de Medicina.
+    * crm -> Conselho Regional de Medicina - Primary KEY.
 * Odontólogo
     * id_voluntario -> id da tabela voluntário.
-    * cro ->  Conselho Regional de Odontologia.
+    * cro ->  Conselho Regional de Odontologia - Primary KEY.
 * saúde
-    * id_saude -> Recebe um id aleatório.
+    * id_saude -> Recebe um id automaticamente.
     * descricao -> descrição do atendimento.
     * crnm -> Carteira de registro nacional migratório da tabela refúgiado.
     *  cfp -> Registro de Especialista em Psicologia da tabela psicologo.
