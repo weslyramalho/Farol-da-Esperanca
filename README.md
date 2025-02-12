@@ -15,7 +15,7 @@
 * Hospedagem vercel: (https://farol-da-esperanca.vercel.app/)
 ### Desafio escolhido, problema identificado e público-alvo.
 #### Desafio escolhido
-O Projeto Farol da Esperança escolheu o tema "Acesso à serviços básicos dos Refugiados:Saúde, Educação e Emprego.O Projeto busca promover a inclusão e autonomia dos refugiados no Brasil por meio de soluções concretas. Entre as iniciativas estão cursos de português para facilitar a comunicação e a inserção no mercado de trabalho, workshops de capacitação para desenvolver habilidades e gerar renda, programas de mentoria para conectar refugiados com profissionais brasileiros e fortalecer sua rede de apoio, além de ações de conscientização para combater o preconceito e estimular a integração cultural.
+O Projeto Farol da Esperança escolheu o tema "Acesso à serviços básicos para os Refugiados:Saúde, Educação e Emprego.O Projeto busca promover a inclusão e autonomia dos refugiados no Brasil por meio de soluções concretas. Entre as iniciativas estão cursos de português para facilitar a comunicação e a inserção no mercado de trabalho, workshops de capacitação para desenvolver habilidades e gerar renda, programas de mentoria para conectar refugiados com profissionais brasileiros e fortalecer sua rede de apoio, além de ações de conscientização para combater o preconceito e estimular a integração cultural.
 
 #### Problemas identificados
 1. Barreiras Linguísticas
