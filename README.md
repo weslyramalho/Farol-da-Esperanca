@@ -9,6 +9,7 @@
 * Wilza de Jesus Dourado Aquino dos Santos
 * Wesly Ramalho Lopes
 * Orlando Lopes Saraiva Junior
+* Isabella Yasmin da Silva Bacelar
 
 ### Links
 * Figma: (https://www.figma.com/design/LnKtMiEcCjlfhQssfVYdqt/Untitled?node-id=0-1&p=f&t=5L3VsxNTaaylNVz6-0)
