@@ -86,7 +86,7 @@ _Refugiados enfrentam desafios imensos para reconstruir suas vidas, como barreir
    ##
 </div>
 
-### Página WEB
+### Página WEB:
 
 
 ![video1](https://github.com/weslyramalho/Farol-da-Esperanca/blob/main/img/V%C3%ADdeo%20sem%20t%C3%ADtulo%20(1).gif)
