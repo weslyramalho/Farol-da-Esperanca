@@ -10,40 +10,6 @@ body {
 .alinhamento-total-da-pg{
     padding: 0px;
 }
-
-
-.head {
-    width: 100%;
-    height: 198px;
-    background-color: #FFFBE4;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-
-}
-.ajust{
-    margin-top: 100px;
-}
-.naveg {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    width: 90%;
-    height: 75px;
-    margin-left: 50px;
-    background-color: #003B73BD;
-}
-.opc {
-    text-decoration: none;
-    width: 400;
-    size: 40px;
-    line-height: 50px;
-    color: #FFFFFF;
-}
-
-
-
 /*-------------------------------------------conteudo*/
 
 .conteudo1{
@@ -112,82 +78,10 @@ body {
     border-radius: 80px;
 }
 
-
-
-/*-----------------FOOTER-----------------------------------*/
-
-.footer{
-    background-color: #1a4268;
-    align-content: center;
-    margin-top: 300px;
-}
-.conteudo-footer{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    align-items: center;
-    padding: 60px;
-}
-.elemento1-footer > a{
-    color: #ffffff;
-    font-size: 15px;
-    font-weight: 400;
-    display: flex;
-    flex-direction: column;
-}
-a{
-    text-decoration: none;
-}
-.elemento2-footer{
-    width: 490px;
-    height: 127px;
-}
-.elemento3-footer{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    justify-items: center;
-    align-items: start;
-}
-.elemento3-footer  a{
-    color: #ffffff;
-    font-size: 15px;
-    font-weight: 400;
-}
-
-
-
-
-
-
 /*---------------------------------------media query------------------------------------------*/
 
 @media (max-width: 973px) {
    
-    .naveg {
-        flex-direction: column;
-        height: 100%;
-    }
-    .footer{
-        height: 100%;
-        display: flex;
-        flex-direction: column;
-    }
-    .conteudo-footer{
-        display: flex;
-        flex-direction: column;
-    }
-    .elemento1-footer{
-        display: flex;
-        flex-direction: row;
-        gap: 10px;
-    }
-    .elemento1-footer{
-        flex-direction: column;
-    }
-    .elemento2-footer {
-        width: 90%;
-    }
     .conteudo2{
         display: flex;
         flex-direction: column;
